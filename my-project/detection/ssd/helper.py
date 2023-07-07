@@ -97,4 +97,4 @@ while True:
 
         # Pring what class we have detected
         print('Detected:', CLASS_IDS[classID], detected_class.Left, detected_class.Right, 
-              'Is a threat:', int(detected_class.Right - detected_class.Right) > 0)
+              'Is a threat:', int(detected_class.Top))
