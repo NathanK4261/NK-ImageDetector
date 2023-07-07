@@ -76,7 +76,7 @@ If you would like to download a dataset on a **Google Runtime** follow these ste
 
 _For best results, follow these instructions and DO NOT go ahead._
 
-- Open this link --> [https://colab.research.google.com/drive/1nnnpb2Dnh5Mkb87r-PjacwRT_p8Y0a1u?usp=sharing](http)
+- Open this link --> [https://colab.research.google.com/drive/1nnnpb2Dnh5Mkb87r-PjacwRT_p8Y0a1u?usp=sharing]
 
 - Click **File -> Save a copy in Drive**
 
@@ -94,7 +94,7 @@ _For best results, follow these instructions and DO NOT go ahead._
 <img width="1156" alt="Screenshot 2023-07-07 at 2 13 44 AM" src="https://github.com/NathanK4261/NK-ImageDetector/assets/78992074/8e11857c-9350-49c2-8945-92b20844c827">
 
 
-- Go to Open Images --> [https://storage.googleapis.com/openimages/web/visualizer/index.html?](url)
+- Go to Open Images --> [https://storage.googleapis.com/openimages/web/visualizer/index.html?]
 - When you follow this link, search around the different classes of images and remember the name of the category/catergories you want to download.
 - Now, return to your Colab file and look at the third cell. It should look like this:
 
