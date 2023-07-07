@@ -152,34 +152,6 @@ Now that we have correctly set up the detection folder, open the terminal and
 run these scripts:
 
       cd /home/nvidia/NK-ImageDetector/my-project/detection/ssd
-      nano helper.py
-
-You should now be in a text editor, navigate to this line in the code:
-
-
-<img width="930" alt="Screenshot 2023-07-07 at 6 06 27 AM" src="https://github.com/NathanK4261/driver-distraction-helper/assets/78992074/2db7fcdd-44a6-4af5-a7e3-af6fa3f52032">
-
-
-_"CLASS_IDS = [''] # Change this to the names of the labels in your model"_
-
-- There should be a file called "labels.txt" in "/home/nvidia/NK-ImageDetector/my-project/detection/ssd/models/my-model/labels.txt".
-
-- Take every word in that file **EXCEPT FOR THE WORK "BACKROUND"** and change the values in the python script to match the labels in the text file.
-
-- For example, if this was my "labels.txt" file...
-    BACKROUND
-    Cat
-    Dog
-
-- I would edit the python code to look like:
-
-
-<img width="925" alt="Screenshot 2023-07-07 at 6 12 35 AM" src="https://github.com/NathanK4261/driver-distraction-helper/assets/78992074/ab25fccd-453c-4e69-91f5-6ceaa67daf6a">
-
-- Once you do that, pess "controll+x" --> "y" --> "ENTER" to save the updated .py file
-
-- You can now run the hlper.py script!
-  
       python3 helper.py models/my-model/ssd-mobilenet.onnx models/my-model/labels.txt 4
 
 This should run the python script. Which means you are ready to detect objects with your retrained model!
