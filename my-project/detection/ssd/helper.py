@@ -96,4 +96,4 @@ while True:
         classID = int(detected_class.ClassID)
 
         # Pring what class we have detected
-        print('Detected:', CLASS_IDS[classID], 'SLOW DOWN')
+        print('Detected:', CLASS_IDS[classID])
