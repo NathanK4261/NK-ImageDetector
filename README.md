@@ -83,11 +83,15 @@ _For best results, follow these instructions and DO NOT go ahead._
 - Open the copied file in a new tab. (you can exit the other Colab tab)
   
 - Run the first cell of code by pressing the "Play" button next to it. You will see a green checkmark when the cell has finished running:
-<img width="1138" alt="Screenshot 2023-07-07 at 1 57 03 AM" src="https://github.com/NathanK4261/driver-distraction-helper/assets/78992074/197228bf-aa62-4b35-adf5-5ba31584cb87">
+
+
+<img width="1138" alt="Screenshot 2023-07-07 at 1 57 03 AM" src="https://github.com/NathanK4261/NK-ImageDetector/assets/78992074/63985e4b-bd74-46f3-ae74-5b97c6dbc9d6">
 
 
 - Next, run the second cell by pressing the "Play" button again. Again, you will see a green checkmark indicating the cell has finished running:
-<img width="1156" alt="Screenshot 2023-07-07 at 2 13 44 AM" src="https://github.com/NathanK4261/driver-distraction-helper/assets/78992074/8c8043fb-0107-4e50-8599-ea13de4da694">
+
+
+<img width="1156" alt="Screenshot 2023-07-07 at 2 13 44 AM" src="https://github.com/NathanK4261/NK-ImageDetector/assets/78992074/8e11857c-9350-49c2-8945-92b20844c827">
 
 
 - Go to Open Images --> [https://storage.googleapis.com/openimages/web/visualizer/index.html?](url)
