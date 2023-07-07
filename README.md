@@ -38,7 +38,7 @@ started with your Jetson
 - **(Note: DO NOT continue setting up your Jetson after you reached the end of
 the document provided below, you will build the project in the next step)**
 
-- [https://github.com/dusty-nv/jetson-inference/blob/master/docs/jetpack-setup-2.md](http)
+- [https://github.com/dusty-nv/jetson-inference/blob/master/docs/jetpack-setup-2.md]
 
 # Step 2: Downloading Requirements
 
@@ -70,7 +70,7 @@ runtime, so you can save on memory and keep your Jetson from working too hard.
 
 If you would like to download a dataset and train it **ON YOUR JETSON**, follow this document:
 
-- [https://github.com/dusty-nv/jetson-inference/blob/master/docs/pytorch-ssd.md](http)
+- [https://github.com/dusty-nv/jetson-inference/blob/master/docs/pytorch-ssd.md]
 
 If you would like to download a dataset on a **Google Runtime** follow these steps;
 
